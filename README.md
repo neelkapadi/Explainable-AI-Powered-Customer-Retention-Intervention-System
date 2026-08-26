@@ -1,4 +1,5 @@
-# Explainable AI–Driven Customer Churn Prediction & Retention
+# Explainable-AI Powered Customer Retention & Intervention System
+
 
 An end-to-end **Machine Learning and Explainable AI** project for predicting telecom customer churn and converting model predictions into **personalized retention recommendations**.
 
