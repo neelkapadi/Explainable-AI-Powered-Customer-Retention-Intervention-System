@@ -95,29 +95,23 @@ Example interventions:
 
 ### Explainable AI Retention Framework
 
-![Solution Framework](./images/solution_framework.png)
+<img width="1441" height="810" alt="solution_framework" src="https://github.com/user-attachments/assets/c94e6ec1-e4cb-4c70-88ce-9a7938b5da80" />
 
 ### Exploratory Data Analysis
 
-![EDA Findings](./images/eda_findings.png)
+<img width="1441" height="810" alt="eda_findings" src="https://github.com/user-attachments/assets/387bc991-fe7a-4a78-a676-62d8af86ac30" />
 
 ### Machine Learning Workflow
 
-![ML Workflow](./images/ml_workflow.png)
+<img width="1441" height="810" alt="ml_workflow" src="https://github.com/user-attachments/assets/c593fb1b-c318-4ea5-96a3-098662e81b25" />
 
 ### SHAP Explainability
 
-![SHAP Analysis](./images/shap_analysis.png)
+<img width="1441" height="810" alt="shap_analysis" src="https://github.com/user-attachments/assets/8d41590d-69cf-4361-9fed-017bb57c6bc6" />
 
 ### Customer Risk Segmentation
 
-![Risk Segmentation](./images/risk_segmentation.png)
-
-## 📑 Project Presentation
-
-The complete 15-slide presentation is available here:
-
-**[📥 View / Download Project Presentation](./GCI_FinalAssignment_NeelKapadi.pptx)**
+<img width="1441" height="810" alt="risk_segmentation" src="https://github.com/user-attachments/assets/3c41a40a-b8a7-44b5-a293-57ab0708d10f" />
 
 ## 🛠️ Technologies Used
 
